@@ -31,7 +31,7 @@ Ying Ji 919028869
 	
 	- `Original Data with Five Algorithmsn.ipynb`: This flie contains code output.
 	
-	- `PCA Dta with Five Algorithms.ipynb`: This flie contains code output.
+	- `PCA Data with Five Algorithms.ipynb`: This flie contains code output.
 
 	- `Correlation Filter Data with Five Algorithms.ipynb`:This flie contains code output.
 
