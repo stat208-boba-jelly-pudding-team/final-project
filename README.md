@@ -28,11 +28,11 @@ Ying Ji 919028869
 * `/notebooks/`: 
 
 	- `Data Processing and Visualization.ipynb`: This flie contains code output.
-    
-	- `Original  Data with Five Algorithmsn.ipynb`: This flie contains code output.
 	
         - `PCA Data with Five Algorithms.ipynb`: This flie contains code output.
-  
+        
+	- `Original  Data with Five Algorithmsn.ipynb`: This flie contains code output.
+
 	- `Correlation Filter Data with Five Algorithms.ipynb`:This flie contains code output.
 
 * `/data/`: breast cancer.csv
