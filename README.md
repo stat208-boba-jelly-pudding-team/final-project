@@ -12,15 +12,15 @@ Ying Ji 919028869
 
 * `/code/`: 
 	
-	* `Data processing and visulization.py`: this file contains code for data loading, cleaning and visualization.
+	- `Data processing and visulization.py`: this file contains code for data loading, cleaning and visualization.
 
-	* `Original.py`: this file contains code for applying Logistic regression, KNN, Naive Bayes, Random Forest and SVM on the original data set. 
+	- `Original.py`: this file contains code for applying Logistic regression, KNN, Naive Bayes, Random Forest and SVM on the original data set. 
 	                 Under each algorithm, we used cross validation, model fitting, accuracy calculating, confusion matrix and roc curve.
 
-	* `PCA.py`: this file contains code for applying Logistic regression, KNN, Naive Bayes, Random Forest and SVM on the PCA data set.
-	            Under each algorithm, we used cross validation, model fitting, accuracy calculating, confusion matrix and roc curve
+	- `PCA.py`: this file contains code for applying Logistic regression, KNN, Naive Bayes, Random Forest and SVM on the PCA data set.
+	            Under each algorithm, we used cross validation, model fitting, accuracy calculating, confusion matrix and roc curve.
     
-	* `High correlation filter.py`: this file contains code for applying Logistic regression, KNN, Naive Bayes, Random Forest and SVM on the 
+	- `High correlation filter.py`: this file contains code for applying Logistic regression, KNN, Naive Bayes, Random Forest and SVM on the 
 	                                correlation filter data set. Under each algorithm, we used cross validation, model fitting, accuracy calculating,
 					confusion matrix and roc curve.
     
