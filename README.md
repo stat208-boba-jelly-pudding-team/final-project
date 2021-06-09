@@ -1,5 +1,8 @@
 # A Comparative Analysis of Breast Cancer Detection and Diagnosis Using Data Visualization and Machine Learning Applications
-Group member: Chen le, Ruolin Liao, Ying Ji
+Group member: 
+Chen le 919061622
+Ruolin Liao 918980005
+Ying Ji 919028869
 
 ## How to read this project?
 
@@ -29,7 +32,7 @@ Group member: Chen le, Ruolin Liao, Ying Ji
   
 	* `Correlation Filter Data with Five Algorithms.ipynb`:This flie contains code output.
 
-* `/data/`: cancer.csv
+* `/data/`: breast cancer.csv
 
 * `report.pdf`: our format report for the project
 
