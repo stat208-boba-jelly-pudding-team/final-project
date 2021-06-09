@@ -1,6 +1,5 @@
 # A Comparative Analysis of Breast Cancer Detection and Diagnosis Using Data Visualization and Machine Learning Applications
 Group member: 
-
 Chen le 919061622
 Ruolin Liao 918980005
 Ying Ji 919028869
@@ -16,11 +15,14 @@ Ying Ji 919028869
 	* `Data processing and visulization.py`: this file contains code for data loading, cleaning and visualization.
 
 	* `Original.py`: this file contains code for applying Logistic regression, KNN, Naive Bayes, Random Forest and SVM on the original data set. 
+	                 Under each algorithm, we used cross validation, model fitting, accuracy calculating, confusion matrix and roc curve.
 
 	* `PCA.py`: this file contains code for applying Logistic regression, KNN, Naive Bayes, Random Forest and SVM on the PCA data set.
+	            Under each algorithm, we used cross validation, model fitting, accuracy calculating, confusion matrix and roc curve.
     
 	* `High correlation filter.py`: this file contains code for applying Logistic regression, KNN, Naive Bayes, Random Forest and SVM on the 
-	correlation filter data set.
+	                                correlation filter data set. Under each algorithm, we used cross validation, model fitting, accuracy calculating,
+					confusion matrix and roc curve.
     
 
 * `/notebooks/`: 
@@ -29,7 +31,7 @@ Ying Ji 919028869
     
 	* `Original  Data with Five Algorithmsn.ipynb`: This flie contains code output.
 	
-  * `PCA Data with Five Algorithms.ipynb`:This flie contains code output.
+        * `PCA Data with Five Algorithms.ipynb`:This flie contains code output.
   
 	* `Correlation Filter Data with Five Algorithms.ipynb`:This flie contains code output.
 
