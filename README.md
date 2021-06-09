@@ -1,7 +1,10 @@
 # A Comparative Analysis of Breast Cancer Detection and Diagnosis Using Data Visualization and Machine Learning Applications
 Group member: 
+
 Chen le 919061622
+
 Ruolin Liao 918980005
+
 Ying Ji 919028869
 
 ## How to read this project?
