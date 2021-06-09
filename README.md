@@ -18,7 +18,7 @@ Ying Ji 919028869
 	                 Under each algorithm, we used cross validation, model fitting, accuracy calculating, confusion matrix and roc curve.
 
 	* `PCA.py`: this file contains code for applying Logistic regression, KNN, Naive Bayes, Random Forest and SVM on the PCA data set.
-	            Under each algorithm, we used cross validation, model fitting, accuracy calculating, confusion matrix and roc curve.
+	            Under each algorithm, we used cross validation, model fitting, accuracy calculating, confusion matrix and roc curve
     
 	* `High correlation filter.py`: this file contains code for applying Logistic regression, KNN, Naive Bayes, Random Forest and SVM on the 
 	                                correlation filter data set. Under each algorithm, we used cross validation, model fitting, accuracy calculating,
@@ -31,7 +31,7 @@ Ying Ji 919028869
     
 	* `Original  Data with Five Algorithmsn.ipynb`: This flie contains code output.
 	
-        * `PCA Data with Five Algorithms`: This flie contains code output.
+        * `PCA Data with Five Algorithms.ipynb`:This flie contains code output.
   
 	* `Correlation Filter Data with Five Algorithms.ipynb`:This flie contains code output.
 
